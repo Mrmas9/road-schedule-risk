@@ -1,0 +1,51 @@
+id,name,phase,predecessors,min,mode,max
+1,Submit DCO Application,Statutory Planning & DCO,,30,45,90
+2,DCO Review & Consultation,Statutory Planning & DCO,1,90,120,260
+3,Secretary of State Decision,Statutory Planning & DCO,2,60,90,180
+4,Environmental Consents,Statutory Planning & DCO,3,20,30,60
+5,Archaeological Surveys,Statutory Planning & DCO,4,15,25,45
+6,Finalise Detailed Design,Statutory Planning & DCO,5,30,40,70
+7,Award Main Construction Contract,Enabling Works & Mob,6,15,20,40
+8,Establish Site Compound,Enabling Works & Mob,7,10,14,21
+9,Install Site Fencing & Security,Enabling Works & Mob,8,5,7,12
+10,Implement Traffic Management,Enabling Works & Mob,9,10,15,25
+11,Clear Site Vegetation,Enabling Works & Mob,10,5,10,20
+12,Topsoil Stripping,Enabling Works & Mob,11,10,15,30
+13,Construct Temporary Haul Roads,Enabling Works & Mob,12,14,21,35
+14,Detect Unmapped Utilities,Utility Diversions,13,7,10,25
+15,Divert Water Mains,Utility Diversions,14,14,21,45
+16,Divert Gas Mains,Utility Diversions,15,14,25,50
+17,Divert High Voltage Electricity,Utility Diversions,16,21,30,60
+18,Divert Low Voltage Electricity,Utility Diversions,17,10,15,25
+19,Divert Telecommunications/Fibre,Utility Diversions,18,14,21,40
+20,Relocate Existing Drainage,Utility Diversions,19,10,14,25
+21,Final Utility Sign-off,Utility Diversions,20,5,7,14
+22,Bulk Excavation (Cut),Bulk Earthworks,21,20,30,55
+23,Embankment Construction (Fill),Bulk Earthworks,22,20,30,55
+24,Subgrade Preparation,Bulk Earthworks,23,10,14,25
+25,Ground Improvement/Stabilisation,Bulk Earthworks,24,14,21,35
+26,Install Main Stormwater Pipes,Bulk Earthworks,25,15,20,35
+27,Construct Attenuation Ponds,Bulk Earthworks,26,15,20,30
+28,Install Catchpits and Manholes,Bulk Earthworks,27,10,14,21
+29,Earthworks Testing & Approval,Bulk Earthworks,28,5,7,12
+30,Piling for Bridge Foundations,Structures & Bridges,29,20,28,45
+31,Construct Pile Caps,Structures & Bridges,30,10,15,25
+32,Construct Bridge Abutments,Structures & Bridges,31,15,21,35
+33,Install Pre-cast Bridge Beams,Structures & Bridges,32,7,10,20
+34,Cast Bridge Deck in-situ,Structures & Bridges,33,14,21,35
+35,Bridge Waterproofing,Structures & Bridges,34,5,7,14
+36,Construct Retaining Walls (Sec 1),Structures & Bridges,35,15,20,30
+37,Construct Retaining Walls (Sec 2),Structures & Bridges,36,15,20,30
+38,Structures Safety Inspection,Structures & Bridges,37,5,7,10
+39,Lay Granular Sub-base,Pavement & Surfacing,38,15,21,35
+40,Install Kerbs and Edging,Pavement & Surfacing,39,10,14,21
+41,Lay Asphalt Base Course,Pavement & Surfacing,40,10,15,25
+42,Lay Asphalt Binder Course,Pavement & Surfacing,41,10,14,20
+43,Lay Asphalt Surface Course,Pavement & Surfacing,42,10,14,20
+44,Adjust Ironwork (Manholes),Pavement & Surfacing,43,5,7,12
+45,Install Crash Barriers/VRS,Pavement & Surfacing,44,10,15,25
+46,Paint Road Markings & Studs,Pavement & Surfacing,45,5,7,14
+47,Install Signage and Lighting,Commissioning & Handover,46,10,14,21
+48,Independent Road Safety Audit,Commissioning & Handover,47,7,10,20
+49,Correct Defects (Snagging),Commissioning & Handover,48,10,15,30
+50,Final Handover to Client,Commissioning & Handover,49,3,5,10
