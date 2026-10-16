@@ -1,8 +1,0 @@
-scenario,P10,P50,P90,mean,sd,direct_cost_gbp_m,days_saved_at_P50,premium_per_day_saved_gbp
-Baseline,1169,1237,1312,1238.8,55.5,15.765,0,0
-Crashing (5 activities),1119,1187,1262,1188.8,55.5,17.235,50,29400
-Crashing (site works only),1149,1217,1292,1218.8,55.5,16.335,20,28500
-"Fast-tracking, 20% rework",1135,1202,1278,1204.7,55.5,15.765,34,0
-"Fast-tracking, 35% rework",1138,1206,1282,1208.7,55.8,15.765,30,0
-"Fast-tracking, 50% rework",1142,1210,1287,1212.6,55.9,15.765,26,0
-Crashing + fast-tracking (35% rework),1092,1160,1235,1162.1,55.8,17.235,77,19124
